@@ -6,6 +6,12 @@
   [![NPM Install Size][npm-install-size-image]][npm-install-size-url]
   [![NPM Downloads][npm-downloads-image]][npm-downloads-url]
 
+## Description
+This is Eskiz Service which send sms to Uz Numbers
+And these cod simple auth with using this service for send a otp code to users Phone
+
+The more information about it in [here](https://documenter.getpostman.com/view/663428/RzfmES4z?version=latest)
+
 ## Instalition 
 ```js
  $ cd src
@@ -43,8 +49,5 @@ $ npm run dev
 [npm-version-image]: https://badgen.net/npm/v/express
 
 ## Documentation
-Postman Api's ("https://documenter.getpostman.com/view/26560018/2s9Yyti1uS")
-
-
-https://documenter.getpostman.com/view/663428/RzfmES4z?version=latest
+Postman Api's (https://documenter.getpostman.com/view/26560018/2sA2rCVMks)
 
