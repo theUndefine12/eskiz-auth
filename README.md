@@ -6,6 +6,8 @@
   [![NPM Install Size][npm-install-size-image]][npm-install-size-url]
   [![NPM Downloads][npm-downloads-image]][npm-downloads-url]
 
+
+![Logo](https://eskiz.uz/logo.svg)
 ## Description
 This is Eskiz Service which send sms to Uz Numbers
 And these cod simple auth with using this service for send a otp code to users Phone
@@ -17,6 +19,7 @@ The more information about it in [here](https://documenter.getpostman.com/view/6
  $ cd src
  $ npm install
 ```
+
 ## Pull
 ```
 Add (.env) file and pull these lines
